@@ -1,0 +1,18 @@
+body{
+	background: lightgrey;
+}
+
+h1{
+	text-align: center;  
+}
+
+h3{
+	text-align: center;
+}
+
+img{
+	display: inline-block;
+}
+.img-container{
+  text-align: center;
+}
